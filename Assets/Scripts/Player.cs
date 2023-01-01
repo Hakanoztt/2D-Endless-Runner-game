@@ -18,7 +18,9 @@ public class Player : MonoBehaviour {
     bool control = false;
 
     public ScoreManager scoreManager;
+
     Vector2 targetPos;
+
     public float Yincrement;
     public float speed;
 
